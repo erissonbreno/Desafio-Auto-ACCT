@@ -1,7 +1,6 @@
 {
-  "name": "Desafio",
+  "name": "desafio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +10,20 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^4.10.0",
+    "cypress": "^4.12.1",
     "cypress-cucumber-preprocessor": "^2.0.1",
     "cypress-xpath": "^1.6.1"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erissonbreno/Desafio-Auto-ACCT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erissonbreno/Desafio-Auto-ACCT/issues"
+  },
+  "homepage": "https://github.com/erissonbreno/Desafio-Auto-ACCT#read.me"
+
 }
