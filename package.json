@@ -17,5 +17,18 @@
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
+<<<<<<< HEAD
   }
+=======
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erissonbreno/Desafio-Auto-ACCT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erissonbreno/Desafio-Auto-ACCT/issues"
+  },
+  "homepage": "https://github.com/erissonbreno/Desafio-Auto-ACCT#read.me",
+  "description": ""
+>>>>>>> teste
 }
